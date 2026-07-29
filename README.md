@@ -43,7 +43,7 @@ Typography pairs **Space Grotesk** (headings), **Inter** (body), and **JetBrains
 ├── index.html              # Main portfolio page
 ├── style.css                # All styling, responsive breakpoints
 ├── script.js                 # Typing effect, scroll reveal, skill bars, contact form
-├── images/
+├── assest/
 │   ├── profile.jpg           # Profile photo
 │   ├── project1.png ...      # Project screenshots 
 ```
