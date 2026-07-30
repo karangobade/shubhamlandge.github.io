@@ -45,12 +45,7 @@ Typography pairs **Space Grotesk** (headings), **Inter** (body), and **JetBrains
 ├── script.js                 # Typing effect, scroll reveal, skill bars, contact form
 ├── assest/
 │   ├── profile.jpg           # Profile photo
-│   ├── project1.png ...      # Project screenshots
-│   ├── dashboard1.png ...    # Dashboard gallery screenshots
-│   ├── og-image.jpg          # Open Graph share image
-│   └── favicon.svg
-└── resume/
-    └── resume.pdf
+│   ├── project1.png ...      # Project screenshots 
 ```
 
 ## Getting Started
